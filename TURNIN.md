@@ -11,5 +11,4 @@ Things to show to Hannah:
 1. Icon Design Ideas (paper sketches)
 2. Font Scan
 3. Repo (THIS!)
-4. Any photoshop files
-
+4. Any Photoshop Files
