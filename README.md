@@ -13,6 +13,6 @@ Offline Maps Developed by Kitten Software Group for iOS
     * __Supposed to be 5th of May 2013; however, this falls on a Sunday.__
 
 Notices:
-Copyright (c) 2012 A. Meadows, K. Fagan, and J. Guerrera. 
-Please direct all questions or comments to KittenSofware@gmail.com
+Copyright (c) 2012 A. Meadows, K. Fagan, and J. Guerrera.  
+Please direct all questions or comments to KittenSofware@gmail.com  
 
