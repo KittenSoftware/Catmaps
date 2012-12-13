@@ -10,7 +10,7 @@ Offline Maps Developed by Kitten Software Group for iOS
     * Central
     * West Coast
 * This project aims for completion around the 6th of May 2013.
-    * __Supposed to be 5th of May 2013; however, this falls on a Sunday.__
+    * __Initally set for 5th of May 2013; however, this falls on a Sunday.__
 
 Notices:
 Copyright (c) 2012 A. Meadows, K. Fagan, and J. Guerrera.  
