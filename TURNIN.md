@@ -8,8 +8,9 @@ Keeping a log of things to actually show to Hannah. Basically to keep us organiz
 
 In progress:
 -------------------------
-1. Icon Design Ideas (paper sketches)
-2. Any Photoshop Files
+1. Icon Design Ideas (Actual Files, 1 and 2)
+2. Splash Screen Ideas
+3. Barebones Code
 
 Turned in/shown:
 ----------------
