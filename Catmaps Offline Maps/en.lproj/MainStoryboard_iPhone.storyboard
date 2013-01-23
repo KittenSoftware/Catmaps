@@ -12,19 +12,28 @@
                         <rect key="frame" x="0.0" y="20" width="320" height="504"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
-                            <tabBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="yfv-0c-vbG">
+                            <navigationBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Bxo-t9-o8N">
+                                <items>
+                                    <navigationItem title="Catmaps" id="sSW-eV-ooz">
+                                        <barButtonItem key="rightBarButtonItem" title="Settings" id="69p-qy-2tw"/>
+                                    </navigationItem>
+                                </items>
+                            </navigationBar>
+                            <tabBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="9rM-Gp-gl5">
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                 <items>
-                                    <tabBarItem systemItem="favorites" id="KD1-LP-ErK"/>
-                                    <tabBarItem systemItem="more" id="0qI-hQ-oiS"/>
+                                    <tabBarItem title="Areas" id="HXP-4z-dR3"/>
                                 </items>
                             </tabBar>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="yfv-0c-vbG" firstAttribute="trailing" secondItem="3" secondAttribute="trailing" type="default" id="Lbr-Zw-pG0"/>
-                            <constraint firstItem="yfv-0c-vbG" firstAttribute="bottom" secondItem="3" secondAttribute="bottom" type="default" id="vEa-yA-kio"/>
-                            <constraint firstItem="yfv-0c-vbG" firstAttribute="leading" secondItem="3" secondAttribute="leading" type="default" id="wez-Tx-iZT"/>
+                            <constraint firstItem="9rM-Gp-gl5" firstAttribute="trailing" secondItem="3" secondAttribute="trailing" type="default" id="QyC-KS-jLh"/>
+                            <constraint firstItem="Bxo-t9-o8N" firstAttribute="trailing" secondItem="3" secondAttribute="trailing" type="default" id="b8e-Zg-Jif"/>
+                            <constraint firstItem="Bxo-t9-o8N" firstAttribute="top" secondItem="3" secondAttribute="top" type="default" id="dLp-r1-wgc"/>
+                            <constraint firstItem="Bxo-t9-o8N" firstAttribute="leading" secondItem="3" secondAttribute="leading" type="default" id="umY-Og-c3U"/>
+                            <constraint firstItem="9rM-Gp-gl5" firstAttribute="bottom" secondItem="3" secondAttribute="bottom" type="default" id="vio-CJ-2kh"/>
+                            <constraint firstItem="9rM-Gp-gl5" firstAttribute="leading" secondItem="3" secondAttribute="leading" type="default" id="yu3-xL-9HY"/>
                         </constraints>
                     </view>
                     <toolbarItems/>
